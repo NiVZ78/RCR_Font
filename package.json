@@ -1,0 +1,31 @@
+{
+    "author": "NiVZ",
+    "dependencies": {},
+    "keywords": [],
+    "name": "rcr_font",
+    "pebble": {
+        "displayName": "RCR_FONT",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/RCR_Font_3.png",
+                    "name": "IMAGE_RCR_ALL_DIGITS",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt"
+        ],
+        "uuid": "32e49694-26e0-40d3-8839-19b5947554fa",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
